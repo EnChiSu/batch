@@ -1,2 +1,2 @@
 # batch
- Spring Cloud Data Flow (Gradle project)
+Demo using front-end HTML to trigger Spring Batch
